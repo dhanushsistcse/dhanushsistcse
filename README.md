@@ -59,7 +59,7 @@ $ cat about.txt
 
 ```diff
 - System Status: Online
-+ Mission: Master CyberSecurity
++ Mission: CyberSecurity Engineer!
 ```
 
 *“The quieter you become, the more you are able to hear.”*
